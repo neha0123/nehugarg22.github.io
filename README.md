@@ -1,4 +1,4 @@
 # nehugarg22.github.io
 Link:
+https://neha0123.github.io/stone-paper-scissor.github.io/
 
-https://github.com/neha0123/stone-paper-scissor.github.io
